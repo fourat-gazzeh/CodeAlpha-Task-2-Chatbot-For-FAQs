@@ -74,26 +74,6 @@
 
 2. Open your web browser and go to `http://127.0.0.1:5000/` to interact with the chatbot.
 
-## Project Structure
-├── static/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── main.js
-│ ├── icons/
-│ │ ├── user-icon.png
-│ │ └── chatbot-icon.png
-├── templates/
-│ └── index.html
-├── model/
-│ ├── model.pkl
-│ ├── vectorizer.pkl
-│ └── label_encoder.pkl
-├── app.py
-├── Mental_Health_FAQ.csv
-├── requirements.txt
-└── README.md
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
